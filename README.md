@@ -13,3 +13,8 @@ apps from scratch.
 <p align="center">
   <img src="https://mongoose-os.com/images/app1.gif" width="75%">
 </p>
+
+## Useful links
+
+https://mongoose-os.com/docs/book/configuration.html
+https://mongoose-os.com/docs/quickstart/advanced-javascript.html
